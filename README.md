@@ -1,2 +1,2 @@
 # findcourt
-algorithm for find court which matched address in korea
+algorithm for find court of Korea which matched with residence address
