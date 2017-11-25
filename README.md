@@ -3,7 +3,7 @@ algorithm for find court of Korea which matched with residence address
 
 ## Procedure
 1. Getting "sido, sigungu" data from Kakao Address API.
-2. Querying with "sido", "sigungu" to mysql database.
+2. Querying with "sido", "sigungu" to database.
 - Stored data is not matched with "sigungu" for 100%.
 - There is exception case of sigungu data.
 - *Example*
