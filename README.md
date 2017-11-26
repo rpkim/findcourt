@@ -26,5 +26,4 @@ key: "sido,sigungu", value: ""highCourt:{{value}},court:{{value}},support:{{valu
 ### Software Stack
 - [golang](https://golang.org/)
 - [graphql-go: An implementation of GraphQL for Go / Golang](https://github.com/graphql-go/graphql)
-- [go-resty: Simple HTTP and REST client](https://github.com/go-resty/resty)
 - [Bolt is a pure Go key/value store inspired by Howard Chu's LMDB project.](https://github.com/boltdb/bolt)
